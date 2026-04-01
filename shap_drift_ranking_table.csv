@@ -1,6 +1,0 @@
-,Original (baseline),Original |SHAP|,Reduced Female,Reduced |SHAP|,Increased Female,Increased |SHAP|
-Rank 1,relationship,0.2576,relationship,0.2488,marital-status,0.283
-Rank 2,education-num,0.0652,education-num,0.0632,education-num,0.0871
-Rank 3,capital-gain,0.0516,capital-gain,0.056,capital-gain,0.0349
-Rank 4,hours-per-week,0.0061,hours-per-week,0.0066,age,0.0
-Rank 5,age,0.0,age,0.0,workclass,0.0

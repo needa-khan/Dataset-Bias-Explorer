@@ -1,0 +1,6 @@
+DT Balanced — Top Features,DT Mean |SHAP|,LR Balanced — Top Features,LR Mean |SHAP|
+relationship,0.2576,capital-gain,0.6885
+education-num,0.0652,education-num,0.546
+capital-gain,0.0516,sex,0.536
+hours-per-week,0.0061,marital-status,0.4931
+age,0.0,age,0.3

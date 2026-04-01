@@ -3,3 +3,7 @@
 anaconda_projects/
 __pycache__/
 *.pyc
+*.npy
+*.pkl
+*.csv
+*.png
